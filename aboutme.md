@@ -1,4 +1,4 @@
- ![Фотография](/C:/Users/user/OneDrive/Рабочий стол/О СЕБЕ/picture.jpg)
+ ![Фотография](/picture.jpg)
 
 # Personal data
 My name is Veronika B.
